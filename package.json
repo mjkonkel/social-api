@@ -1,0 +1,28 @@
+{
+  "name": "social-api",
+  "version": "1.0.0",
+  "description": "Challenge 18 NoSQL: Social Network API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjkonkel/social-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjkonkel/social-api/issues"
+  },
+  "homepage": "https://github.com/mjkonkel/social-api#readme"
+}
