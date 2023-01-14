@@ -2,10 +2,10 @@
   "name": "social-api",
   "version": "1.0.0",
   "description": "Challenge 18 NoSQL: Social Network API",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "dependencies": {
     "express": "^4.17.1",
