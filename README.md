@@ -3,7 +3,7 @@
 ## Description
 The Social Network API is a backend app that uses Express and Mongoose. The app consists of routes that the user can use to interact with the MongoDB database. Using the routes, Users and Thoughts can be created, updated, and deleted from the database.
 
-## Installaion
+## Installation
 To run the app locally, the necessary dependencies can be installed by running `npm i` in the command line.
 
 ## Usage
