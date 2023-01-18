@@ -12,7 +12,7 @@ Below is an example of the GET route in Insomnia showing all users in the databa
 ![social](https://user-images.githubusercontent.com/111022382/213022930-f88701db-bb72-42ee-b975-06e4f6b5a237.JPG)
 
 ## Walkthrough Video
-A walkthrough demonstrating the app functionality. Watch the video [here]()
+A walkthrough demonstrating the app functionality. Watch the video [here](https://app.castify.com/view/41663d3a-6da2-4530-b500-f63215f34444)
 
 ## License
 MIT license. Please refer to the license in the repo
